@@ -1,0 +1,12 @@
+{
+    "name": "hiteshrohilla/common",
+    "description": "common files used in development of a php project",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Er. Hitesh Kumar (Rohilla)",
+            "email": "rohilla.hitesh@gmail.com"
+        }
+    ],
+    "require": {}
+}
