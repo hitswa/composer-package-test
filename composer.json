@@ -3,6 +3,7 @@
     "description": "common files used in development of a php project",
     "keywords": ["php","common"],
     "type": "package",
+    "version": "1.0.0",
     "require": {
         "php": "^5.3.3 || ^7.0"
     },
