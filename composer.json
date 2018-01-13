@@ -12,6 +12,12 @@
     },
     "require-dev": {},
     "conflict": {},
+    "repositories": [
+        {
+            "type": "package",
+            "url": "https://github.com/hitswa/composer-package-test.git"
+        }
+    ],
     "license": ["Creative Commons Attribution-ShareAlike 4.0 International License",
                 "Creative Commons Attribution 3.0 License"],
     "authors": [
