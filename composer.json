@@ -1,8 +1,12 @@
 {
     "name": "hiteshrohilla/common",
     "description": "common files used in development of a php project",
-    "type": "package",
     "keywords": ["php","common"],
+    "type": "package",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "require-dev": {},
     "license": ["Creative Commons Attribution-ShareAlike 4.0 International License",
                 "Creative Commons Attribution 3.0 License"],
     "authors": [
@@ -10,8 +14,5 @@
             "name": "Er. Hitesh Kumar (Rohilla)",
             "email": "rohilla.hitesh@gmail.com"
         }
-    ],
-    "require": {
-        "php": "^5.3.3 || ^7.0"
-    }
+    ]
 }
