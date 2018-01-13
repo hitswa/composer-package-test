@@ -2,18 +2,30 @@
     "name": "hiteshrohilla/common",
     "description": "common files used in development of a php project",
     "keywords": ["php","common"],
-    "type": "package",
+    "type": "library",
     "version": "1.0.0",
+    "minimum-stability": "stable",
+    "homepage": "",
     "require": {
-        "php": "^5.3.3 || ^7.0"
+        "php": "^5.3.3 || ^7.0",
+        "ext-mysqli": "*"
     },
     "require-dev": {},
+    "conflict": {},
     "license": ["Creative Commons Attribution-ShareAlike 4.0 International License",
                 "Creative Commons Attribution 3.0 License"],
     "authors": [
         {
             "name": "Er. Hitesh Kumar (Rohilla)",
-            "email": "rohilla.hitesh@gmail.com"
+            "email": "rohilla.hitesh@gmail.com",
+            "homepage": "http://hiteshrohilla.com/",
+            "role": "Developer"
         }
-    ]
+    ],
+    "support": {
+        "email": "rohilla.hitesh@gmail.com",
+        "irc": ""
+    },
+    "time": "2018-01-13 00:00:00",
+
 }
