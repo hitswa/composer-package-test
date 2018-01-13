@@ -2,6 +2,9 @@
     "name": "hiteshrohilla/common",
     "description": "common files used in development of a php project",
     "type": "package",
+    "keywords": ["php","common"],
+    "license": ["Creative Commons Attribution-ShareAlike 4.0 International License",
+                "Creative Commons Attribution 3.0 License"],
     "authors": [
         {
             "name": "Er. Hitesh Kumar (Rohilla)",
