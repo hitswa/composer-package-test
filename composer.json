@@ -5,7 +5,7 @@
     "type": "library",
     "version": "1.0.0",
     "minimum-stability": "stable",
-    "homepage": "",
+    "homepage": "http://hiteshrohilla.com/",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "ext-mysqli": "*"
@@ -14,7 +14,7 @@
     "conflict": {},
     "repositories": [
         {
-            "type": "package",
+            "type": "path",
             "url": "https://github.com/hitswa/composer-package-test.git"
         }
     ],
@@ -29,8 +29,7 @@
         }
     ],
     "support": {
-        "email": "rohilla.hitesh@gmail.com",
-        "irc": ""
+        "email": "rohilla.hitesh@gmail.com"
     },
     "time": "2018-01-15 00:00:00",
     "autoload":{
