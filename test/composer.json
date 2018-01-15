@@ -1,0 +1,6 @@
+{
+    "name": "example/example-app",
+    "require": {
+        "hiteshrohilla/common": "dev-master"
+    }
+}
