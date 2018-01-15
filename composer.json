@@ -4,7 +4,7 @@
     "keywords": ["php","common"],
     "type": "library",
     "version": "1.0.0",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "homepage": "http://hiteshrohilla.com/",
     "require": {
         "php": "^5.3.3 || ^7.0",
