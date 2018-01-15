@@ -1,4 +1,5 @@
 <?php
+namespace Hiteshrohilla\Commons;
 
 class Images{
 	public static function str2img($strImage) {

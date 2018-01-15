@@ -1,4 +1,5 @@
 <?php
+namespace Hiteshrohilla\Commons;
 
 require_once 'class.database.php';
 

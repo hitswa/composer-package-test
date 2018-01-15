@@ -1,5 +1,7 @@
 <?php
 
+namespace Hiteshrohilla\Commons;
+
 /************** REMOTE SERVER ENVIORNMENT ********************/
 
 
